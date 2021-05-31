@@ -4,7 +4,7 @@
 ....
 
 ### Control Flow Graph
-![alt text](https://github.com/ljubes/SI_lab2_173229/blob/masters/SI_lab2_173229%20-%20Control%20Flow%20Graph.html?raw=true)
+![alt text](https://github.com/ljubes/SI_lab2_173229/blob/masters/SI_lab2_173229%20-%20Control%20Flow%20Graph.drawio?raw=true)
 
 ### Цикломатска комплексност
 
